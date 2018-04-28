@@ -56,16 +56,25 @@ Problem: Build a regression tree predicting daily bike rentals from all availabl
 
 ## Dependencies:
 
-1. pip
-2. jupyter
+- pip
+- jupyter
+- scikit-learn
+- pandas
+- graphviz
 
 ## Run the script:
 
-1. Create a virtual environment by a method of your choice.
+- Create a virtual environment by a method of your choice.
 MacOS: pyvenv
 Ubuntu: venv
-2. `pip3 install numpy`
-3. `jupyter notebook`
-4. Run the code in your browser.
-  * *Bayes_Class.ipynb* for first dataset
-  * *Bayes_Contour.ipynb* for second dataset
+- `pip3 install numpy`
+- `pip3 install scikit-learn`
+- `pip3 install pandas`
+- `pip3 install graphviz`
+- `jupyter notebook`
+- Run the code in your browser.
+  + *Bayes_Class.ipynb* for first dataset of Bayes Classifier
+  + *Bayes_Contour.ipynb* for second dataset of Bayes Classifier
+
+  + *Question1.ipynb* for first dataset of Decision Trees
+  + *Question2.ipynb* for second dataset of Decision Trees
